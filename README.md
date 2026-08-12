@@ -72,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
