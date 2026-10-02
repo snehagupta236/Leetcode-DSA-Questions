@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/0115-distinct-subsequences) |
 | [1143-longest-common-subsequence](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/0062-unique-paths) |
 | [0115-distinct-subsequences](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/0115-distinct-subsequences) |
 | [0509-fibonacci-number](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/0509-fibonacci-number) |
@@ -188,6 +190,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
