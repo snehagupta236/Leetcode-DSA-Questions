@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/0283-move-zeroes) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0540-single-element-in-a-sorted-array](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/0875-koko-eating-bananas) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/0001-two-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/0904-fruit-into-baskets) |
 | [1386-cinema-seat-allocation](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/1386-cinema-seat-allocation) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/0724-find-pivot-index) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Longest Common Subsequence
