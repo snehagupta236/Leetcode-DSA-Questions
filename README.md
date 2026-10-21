@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/0283-move-zeroes) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Greedy
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/0268-missing-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/0075-sort-colors) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -280,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/0523-continuous-subarray-sum) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
