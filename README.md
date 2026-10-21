@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0905-sort-array-by-parity](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/0905-sort-array-by-parity) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/snehagupta236/https-github.com-snehagupta236-Leetcode-DSA-Questions/tree/master/0678-valid-parenthesis-string) |
